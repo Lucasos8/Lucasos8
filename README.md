@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Lucas Oliveira Souza Banner"/>
+  <img src="./banner/banner.png" alt="Lucas Oliveira Souza Banner"/>
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Lucas Oliveira Souza</h1>
