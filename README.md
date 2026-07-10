@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="[./banner/banner.png](https://github.com/Lucasos8/Lucasos8/blob/main/Banner/banner.png)" alt="Lucas Oliveira Souza Banner"/>
+  <img src="https://github.com/Lucasos8/Lucasos8/blob/main/Banner/banner.png" alt="Lucas Oliveira Souza Banner"/>
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou Lucas Oliveira Souza</h1>
